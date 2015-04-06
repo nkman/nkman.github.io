@@ -18,12 +18,16 @@ social:
     url: https://twitter.com/nairityakhilari
   - title: facebook
     url: https://facebook.com/nairityak
-  - title: stack-overflow
-    url: http://stackoverflow.com/
+  - title: google-plus
+    url: https://google.com/+nairityakhilari
   - title: bitbucket
     url: http://bitbucket.org/nairitya
   - title: github
     url: https://github.com/nkman
+  - title: last.fm
+    url: http://www.last.fm/user/nk_man
+  - title: linkedin
+    url: http://in.linkedin.com/pub/nairitya-khilari/85/917/1a0/en
 
 # Build settings
 markdown: kramdown
