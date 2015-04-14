@@ -1,9 +1,9 @@
 # Site settings
 title: Nairitya Khilari
 email: nairityakhilari@gmail.com
-url: www.nairityak.in
+url: nkman.github.io 
 description: "About me page of Nairitya Khilari"
-baseurl: "http://www.nairityak.in"
+baseurl: 
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
@@ -34,4 +34,3 @@ social:
 markdown: kramdown
 permalink: pretty
 
-exclude: ['config.ru', 'Gemfile', 'Gemfile.lock', 'vendor']
